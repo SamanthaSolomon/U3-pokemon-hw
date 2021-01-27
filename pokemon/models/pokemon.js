@@ -1,4 +1,4 @@
-[
+const pokemon = [
     {
       name: "Bulbasaur",
       damage: 60,
@@ -13,3 +13,5 @@
       id: 3
     }
   ]
+
+module.exports = pokemon
